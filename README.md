@@ -30,6 +30,6 @@ In [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid)
 
  ```
  
-![DiagonalHeader.png](https://support.syncfusion.com/kb/agent/attachment/article/14530/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQwMDk3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.uEU17A6cHZKFN1ow122F7HPJJG4w2A4qZQXn11yGLwo)
+![Diagonal lien in Header](DiagonalHeader.png)
 
 Take a moment to peruse the [WPF DataGrid - HeaderTemplate](https://help.syncfusion.com/wpf/datagrid/styles-and-templates#changing-headertemplates) documentation, where you can find about customization of particular column header with code examples.
