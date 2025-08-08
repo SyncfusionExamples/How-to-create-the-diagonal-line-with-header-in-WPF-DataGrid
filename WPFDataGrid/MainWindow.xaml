@@ -32,7 +32,6 @@
                 <syncfusion:GridTextColumn MappingName="CustomerName" HeaderText="Customer Name"/>
                 <syncfusion:GridTextColumn MappingName="Country" HeaderText="Country"/>
                 <syncfusion:GridTextColumn MappingName="ShipCity" HeaderText="Ship City"/>
-
             </syncfusion:SfDataGrid.Columns>
         </syncfusion:SfDataGrid>
     </Grid>
