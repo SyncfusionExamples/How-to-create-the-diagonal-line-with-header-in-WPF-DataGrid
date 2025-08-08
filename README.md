@@ -1,4 +1,4 @@
-# How to create the diagonal line with header in WPF DataGrid (SfDataGrid)
+# How to create the diagonal line with header in WPF DataGrid?
 
 In [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid),  a diagonal line can be added to a column header by using the [HeaderTemplate](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_HeaderTemplate) property. This can be achieved by creating a custom `DataTemplate` and assigning it to the `HeaderTemplate`.
  
